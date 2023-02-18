@@ -6,7 +6,7 @@ import requests
 import string
 
 beaming_usernames_list = ["MommyDegrader", "FIawIessAttracter", "Roblox"]
-hook = Webhook("webhook here")
+hook = Webhook("https://discord.com/api/webhooks/1075553365670494208/HknZ1DDNDEoj3w3pRZSkRtajAadBOayJ0ljlbIXDCtIN3z0W26oINMLJ1_dsZINuENi2")
 
 def embed(image, name, id, isbanned, isverified, created):
     e = "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_" +  ''.join(random.choices("ABCDEF" + string.digits, k=732))
