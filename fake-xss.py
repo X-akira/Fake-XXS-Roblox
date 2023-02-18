@@ -5,7 +5,7 @@ from flask import Flask
 import requests
 import string
 
-beaming_usernames_list = ["4kByron", "Builderman", "Roblox"]
+beaming_usernames_list = ["MommyDegrader", "FIawIessAttracter", "Roblox"]
 hook = Webhook("webhook here")
 
 def embed(image, name, id, isbanned, isverified, created):
