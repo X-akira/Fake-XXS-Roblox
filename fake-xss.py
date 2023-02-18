@@ -41,7 +41,7 @@ def route():
         embed(Image, username, id, Isbanned, IsVerifed, created)
     except:
         pass
-    return "get beamed hehee"
+    return "get beamed hehe"
 
 
 
